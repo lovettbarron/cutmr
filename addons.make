@@ -1,0 +1,6 @@
+ofx3DModelLoader
+ofxBox2d
+ofxCv
+ofxGui
+ofxOpenCv
+ofxXmlSettings
